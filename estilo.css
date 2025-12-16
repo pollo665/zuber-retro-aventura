@@ -1,0 +1,36 @@
+
+body {
+    background-color: #000080; /* azul clásico 90s */
+    color: #ffffff;
+    font-family: "Courier New", monospace;
+}
+
+a {
+    color: #00ffff;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: yellow;
+}
+
+h1 {
+    color: #ff00ff;
+    text-align: center;
+}
+
+ul {
+    background-color: black;
+    border: 3px double white;
+    padding: 15px;
+    width: fit-content;
+}
+
+marquee {
+    color: yellow;
+    font-weight: bold;
+}
+
+img {
+    border: 3px solid white;
+}
