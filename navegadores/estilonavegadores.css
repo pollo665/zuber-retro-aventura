@@ -1,0 +1,26 @@
+
+body {
+   /* background-color: black;  azul clásico 90s */
+    background-image: url("img/fondo.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #070707;
+    font-family: "Courier New", monospace;
+}
+
+h1 {
+    
+    text-align: center;
+}
+
+
+a:hover {
+    color: rgb(253, 0, 0);
+}
+
+
+
+
+
