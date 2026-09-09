@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página Principal (Index) -->
+  <url>
+    <loc>https://pollo665.github.io/zuber-retro-aventura/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Apartado de Navegadores -->
+  <url>
+    <loc>https://pollo665.github.io/zuber-retro-aventura/navegadores.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Apartado de Programas de PC -->
+  <url>
+    <loc>https://pollo665.github.io/zuber-retro-aventura/aplicaciones.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Apartado de Games Free -->
+  <url>
+    <loc>https://pollo665.github.io/zuber-retro-aventura/Descargagames.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Apartado de Versículos de la Biblia -->
+  <url>
+    <loc>https://pollo665.github.io/zuber-retro-aventura/versiculos.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Apartado de Películas Gratis -->
+  <url>
+    <loc>https://pollo665.github.io/zuber-retro-aventura/Peliculas/peliculas%20gratis.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Apartado de Juegos Creados por ZuberGamer -->
+  <url>
+    <loc>https://pollo665.github.io/zuber-retro-aventura/mi%20game/Anako-Kun.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
