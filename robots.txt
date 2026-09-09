@@ -1,0 +1,10 @@
+# Generar el contenido del archivo robots.txt
+robots_content = """User-agent: *
+Allow: /
+
+# Indicar la ubicación del sitemap
+Sitemap: https://pollo665.github.io/zuber-retro-aventura/sitemap.xml
+"""
+
+with open("robots.txt", "w", encoding="utf-8") as f:
+    f.write(robots_content)
